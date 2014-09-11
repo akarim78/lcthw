@@ -1,6 +1,6 @@
 CFLAGS="-Wall" -g
 all:
-	make ex2
+	make ex3
 clean:
-	rm -rf ex2
+	rm -rf ex3
 
